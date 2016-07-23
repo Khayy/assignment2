@@ -1,0 +1,34 @@
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+  nav {
+      height:125px; 
+  }   
+  
+nav img {
+    width:150px;
+    height:80px;
+    border:0;
+        }    
+        
+navbar a:link a:visited {
+            color:black;
+    background-color: transparent;
+    text-decoration: none; 
+    text-align:auto; 
+        }
+ 
+navbar a:hover {
+            color:green;
+    background-color: transparent;
+    text-decoration: none;  
+        } 
+
+.center {
+    text-align: center;
+    border: 1px solid transparent;
+}  
+
+        
