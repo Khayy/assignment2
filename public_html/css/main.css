@@ -31,4 +31,9 @@ navbar a:hover {
     border: 1px solid transparent;
 }  
 
+
+
+p1::hover {
+    background-color:green;
+}  
         
